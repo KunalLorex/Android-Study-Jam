@@ -7,7 +7,9 @@ there ae many adds and subsciption faced by student and other workers just for s
 
 Proposed Solution :
 
-This project proposes a “cam pdf scanner” to scan document whether it is hand written or not and changes to pdf so that we can be safe from hand contacting during this covid era thus through this one can not only submit assignent but also there can be clean and free envirenment and this is made so that your meeting can now be on next level sampleimages
+This project proposes a “cam pdf scanner” to scan document whether it is hand written or not and changes to pdf so that we can be safe from hand contacting during this covid era thus through this one can not only submit assignent but also there can be clean and free envirenment and this is made so that your meeting can now be on next level 
+sampleimages
+
 ![1](https://user-images.githubusercontent.com/61162569/148362816-26714957-a415-455e-b393-89651a089f99.PNG)
 ![2](https://user-images.githubusercontent.com/61162569/148362820-51480280-311e-42c4-a947-6c499b8b2779.PNG)
 ![3](https://user-images.githubusercontent.com/61162569/148362822-32a85ae0-0a88-4411-817a-bf28b996931a.PNG)
